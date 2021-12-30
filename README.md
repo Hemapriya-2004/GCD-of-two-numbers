@@ -33,7 +33,7 @@ def gcd():
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
+![gcd of two number](https://github.com/Hemapriya-2004/GCD-of-two-numbers/blob/b418dfc07bd8f98ad1d9866c1ff2da685c57571a/gcd.PNG)
 
 
 ## Result:
